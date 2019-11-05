@@ -20,7 +20,7 @@ function Post () {
                 </div>
             </div>
             <div className="Post-caption">
-                <strong>Lorena</strong>In the nature!
+                <strong>Lorena </strong> In the nature!
             </div>
         </article>
     )
