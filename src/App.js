@@ -6,7 +6,13 @@ function App() {
   return (
     <div className="App">
         <Header />
-        <Post />
+        <section className="App-main">
+          <Post 
+            nickname="Lorena" 
+            avatar="https://pbs.twimg.com/profile_images/767829364847370244/n2PEnyCB_400x400.jpg" 
+            caption="In the nature!"
+            image="https://wallpapercave.com/wp/NGD9aMj.jpg" />
+        </section>
     </div>
   );
 }
