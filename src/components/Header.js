@@ -6,10 +6,7 @@ function Header() {
         <nav className="Nav">
             <div className="Nav-menus">
                 <div className="Nav-brand">
-                    <img className="Nav-brand-logo" src="https://image.flaticon.com/icons/svg/1409/1409946.svg"></img>
-                    <a className="Nav-brand-text" href="/">
-                        Instagram
-                    </a>
+                    <img className="Nav-brand-logo" href="/" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-and-icon-black-and-white-text-glyph-png.png"></img>
                 </div>
             </div>
         </nav>
